@@ -58,11 +58,11 @@ docker compose ps
 
 | Tên Dịch Vụ | Chức Năng | Địa Chỉ Truy Cập | Tài Khoản Mặc Định |
 | :--- | :--- | :--- | :--- |
-| **Website Tin tức** | Cổng thông tin WordPress | `https://192.168.142.129` | Khởi tạo tài khoản Admin qua giao diện |
-| **phpMyAdmin** | Quản trị CSDL MySQL | `http://192.168.142.129:8080` (hoặc `8081`) | `news_admin` / `NewsPortalSecurePass2026!@#` |
-| **Prometheus** | Kiểm tra Metrics & Targets | `http://192.168.142.129:9090` (hoặc `9091`) | Không yêu cầu |
-| **Grafana** | Dashboard giám sát hệ thống | `http://192.168.142.129:3000` (hoặc `3001`) | `admin` / `admin` |
-| **Loki API** | Endpoint nhận và truy vấn Log | `http://192.168.142.129:3100` | Không yêu cầu |
+| **Website Tin tức** | Cổng thông tin WordPress | `https://localhost` | Khởi tạo tài khoản Admin qua giao diện |
+| **phpMyAdmin** | Quản trị CSDL MySQL | `http://localhost:8080` (hoặc `8081`) | `news_admin` / `NewsPortalSecurePass2026!@#` |
+| **Prometheus** | Kiểm tra Metrics & Targets | `http://localhost:9090` (hoặc `9091`) | Không yêu cầu |
+| **Grafana** | Dashboard giám sát hệ thống | `http://localhost:3000` (hoặc `3001`) | `admin` / `admin` |
+| **Loki API** | Endpoint nhận và truy vấn Log | `http://localhost:3100` | Không yêu cầu |
 
 ---
 

@@ -1,6 +1,6 @@
 # ĐỒ ÁN TRIỂN KHAI VÀ QUẢN TRỊ HỆ THỐNG PHẦN MỀM
 - **Đề tài 19:** Website Tin tức / Cổng thông tin
-- **Sinh viên thực hiện:** [Hoàng Đinh Gia Đạt]
+- **Sinh viên thực hiện:** [Hoàng Đình Gia Đạt]
 - **Mã số sinh viên (MSSV):** [dtc245180142]
 - **Stack công nghệ:** WordPress, MySQL 8.0, phpMyAdmin, Nginx HTTPS, Prometheus, cAdvisor, Grafana, Loki, Promtail.
 
